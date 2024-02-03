@@ -1,0 +1,4 @@
+containername=crawler-container
+imagename=crawler-image
+containerpassword=root
+networkname=weather-network
